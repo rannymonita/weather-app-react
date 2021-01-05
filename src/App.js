@@ -7,6 +7,7 @@ import Forecast from "./Forecast";
 import Footer from "./Footer";
 
 import "./App.css";
+import "./Footer.css";
 
 function App() {
   return (

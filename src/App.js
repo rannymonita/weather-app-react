@@ -4,6 +4,7 @@ import CurrentDate from "./CurrentDate";
 import City from "./City";
 import CurrentWeather from "./CurrentWeather";
 import Forecast from "./Forecast";
+import Footer from "./Footer";
 
 import "./App.css";
 
@@ -17,6 +18,7 @@ function App() {
         <CurrentWeather />
         <Forecast />
       </header>
+      <Footer />
     </div>
   );
 }

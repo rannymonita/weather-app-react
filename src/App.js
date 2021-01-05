@@ -3,6 +3,7 @@ import Form from "./Form";
 import CurrentDate from "./CurrentDate";
 import City from "./City";
 import CurrentWeather from "./CurrentWeather";
+import Forecast from "./Forecast";
 
 import "./App.css";
 
@@ -14,6 +15,7 @@ function App() {
         <CurrentDate />
         <City />
         <CurrentWeather />
+        <Forecast />
       </header>
     </div>
   );
